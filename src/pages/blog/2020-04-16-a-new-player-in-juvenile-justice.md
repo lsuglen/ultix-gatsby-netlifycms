@@ -10,7 +10,7 @@ tags:
   - Better Outcomes
   - Juvenile Justice Case Management
 ---
-![Better Outcomes - A Juvenile Justice Case Management System](/img/better-outcomes-404.png "Better Outcomes - A Juvenile Justice Case Management System")
+![Better Outcomes - A Juvenile Justice Case Management System](/img/better-outcomes-1000.png "Better Outcomes - A Juvenile Justice Case Management System")
 
 **Better Outcomes** is a complete and customizable solution that seamlessly integrates the following juvenile justice processes:
 
