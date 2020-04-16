@@ -47,11 +47,8 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: |
+    Ultix offers
 main:
   heading: Great coffee with no compromises
   description: >
@@ -60,7 +57,7 @@ main:
     journey. We personally visit each farm to make sure the conditions are
     optimal for the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Better Outcomes - A Juvenile Justice Case Management System
     image: /img/better-outcomes-banner.png
   image2:
     alt: A green cup of a coffee on a wooden table
