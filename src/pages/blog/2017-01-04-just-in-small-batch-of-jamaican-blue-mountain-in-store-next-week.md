@@ -1,11 +1,11 @@
 ---
-templateKey: 'blog-post'
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-featuredpost: true
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+templateKey: blog-post
+title: "Just in: Ultix wins contract to revolutionize Health Care Insurance Software."
+date: 2020-04-15T14:04:10.000Z
+description: Ultix Software signed a deal with Pride Life Insurance to bridge
+  the gap between blah blah blah
+featuredpost: false
+featuredimage: /img/logo-ultix.png
 tags:
   - jamaica
   - green beans
