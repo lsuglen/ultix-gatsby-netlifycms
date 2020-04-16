@@ -6,7 +6,9 @@ title: Our Services
 image: /img/adobestock_305153252.jpeg
 description: Business Development Software Solutions ....
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/Asset-2-50.jpg
+      text: blurb
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
