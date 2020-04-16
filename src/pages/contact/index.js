@@ -1,7 +1,7 @@
 import React from 'react'
 import { navigate } from 'gatsby-link'
 import Layout from '../../components/Layout'
-import Recaptcha from 'react-recaptcha'
+//import Recaptcha from 'react-recaptcha'
 
 function encode(data) {
   return Object.keys(data)
@@ -19,7 +19,7 @@ export default class Index extends React.Component {
   handleChange = e => {
     this.setState({ [e.target.name]: e.target.value })
   }
-
+  
   handleSubmit = e => {
     e.preventDefault()
     const form = e.target
@@ -35,15 +35,7 @@ export default class Index extends React.Component {
       .catch(error => alert(error))
   }
 
-  // render on captcha load
-  handleCaptchaLoad(event) {
-    console.log('handleCaptchaLoad')
-  }
 
-  // load on callback verify
-  verifyCallback(event) {
-    console.log('verifyCallback-->', event)
-  }
 
   render() {
     return (
@@ -142,12 +134,7 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
-                <Recaptcha
-            sitekey="6LfCOOoUAAAAAK2gJZCv-ofU3nSLJZ8-mK7Mxgnf"
-            render="explicit"
-            verifyCallback={this.verifyCallback}
-            onloadCallback={this.handleCaptchaLoad}
-          />
+               
                 <div className="field">
                   <button className="button is-link" type="submit">
                     Send
