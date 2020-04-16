@@ -1,29 +1,51 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-featuredpost: false
-featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
+title: A New Player in Juvenile Justice!
+date: 2020-04-16T14:04:10.000Z
+description: '"Better Outcomes" is a web-based case management system
+  specifically designed to manage juvenile justice cases.'
+featuredpost: true
+featuredimage: /img/better-outcomes-404.png
 tags:
-  - brewing
-  - chemex
+  - Better Outcomes
+  - Juvenile Justice Case Management
 ---
-![chemex](/img/chemex.jpg)
 
-This week we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts.
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is _"one of the best-designed products of modern times"_, and so is included in the collection of the Museum of Modern Art in New York City.
+![Better Outcomes - A Juvenile Justice Case Management System](/img/chemex.jpg "Better Outcomes - A Juvenile Justice Case Management System")
 
-## The little secrets of Chemex brewing
+**Better Outcomes** is a complete and customizable solution that seamlessly integrates the following juvenile justice processes:
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+* Juvenile Profile Administration
+* Court Case Management
+* Detention Management
+* Probation Activity Tracking
+* Treatment Interventions
+* Outcome Reporting
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+**Better Outcomes'** integrated approach dramatically increases the productivity of the Juvenile Services Department by streamlining case workflows, reducing manual processes, eliminating duplication of effort and automating caseworker communications ensuring everyone is on the same page.
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
+## Key Features
 
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+* Completely customized to accommodate specific court procedures and organizational business processes 
+* Consistent user interface (UI) across Juvenile Services departments simplifying caseworker cross-training
+* Customizable caseworker-based dashboard includes powerful analytics and caseworker alerts
+* Advanced notation system that allows for securable / confidential caseworker notes
+* Fully integrated document management system
+  Complete and configurable system audit trails
+* Flexible enterprise-wide role-based security manager
+* Tracks the results of numerous risk assessment tool
+* Enterprise-wide ad-hoc queries and reporting
+* Robust custom reports
+* Powerful analytical tools that allow caseworkers to make informed decisions leading to better outcomes
+* Exceptional tools for outcome monitoring and program effectiveness
+* Provides for built-in interfaces with other entities, for example: District Attorney, Clerk of Court, Sheriff’s Office
+
+## Benefits
+
+**Better Outcomes'** innovative juvenile justice software allows the Juvenile Services Division to: 
+
+* Track and monitor juveniles from the initial incident/arrest through the completion of probation and treatment
+* Puts all juvenile case information at the division’s fingertips
+* Streamline workflows for probation officers allowing for increased face time with juveniles and their families
+* Create treatment programs and services tailored to the specific needs of juvenile offenders helping to reduce recidivism and improve outcomes
