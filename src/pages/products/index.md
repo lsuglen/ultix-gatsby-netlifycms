@@ -48,12 +48,13 @@ pricing:
     - description: Great for small business websites that require under 25 pages of content.
       items:
         - Graphic Design
-        - Analytics
-        - Contact Forms
+        - Up to 25 content pages/forms
         - Location Map
-        - ""
+        - Basic Ecommerce Package
+        - SEO
+        - Website Search Engine
       plan: Medium
-      price: "5549"
+      price: "449"
     - description: Designed for enterprise level website design requiring extensive
         architecture.
       items:
