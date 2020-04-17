@@ -36,13 +36,13 @@ main:
 
   image1:
     alt: Agile Software Development with Ultix Software
-    image: /img/products-grid3.jpg
+    image: /img/adobestock_136732268_preview.jpeg
   image2:
     alt: Custom Software Development with Ultix Software
-    image: /img/products-grid2.jpg
+    image: /img/prog.png
   image3:
     alt: Website and Programming with Ultix Software
-    image: /img/products-grid1.jpg
+    image: /img/asset-1.png
 testimonials:
   - author: Somebody
     quote: '"testimonial"'
