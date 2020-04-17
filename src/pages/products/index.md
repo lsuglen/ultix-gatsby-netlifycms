@@ -7,8 +7,15 @@ image: /img/adobestock_305153252.jpeg
 description: Business Development Software Solutions ....
 intro:
   blurbs:
-    - image: /img/Asset-2-50.jpg
-      text: blurb
+    - image: /img/adobestock_274597413-converted-.png
+      text: >
+        Agile Software Development is an iterative approach to project
+        management and software development that helps teams deliver value to
+        their customers faster and with fewer headaches. Instead of betting
+        everything on a "big bang" launch, an agile team delivers work in small,
+        but consumable, increments. Requirements, plans, and results are
+        evaluated continuously so teams have a natural mechanism for responding
+        to change quickly.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
