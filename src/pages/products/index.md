@@ -9,7 +9,7 @@ description: Ultix Sofware specializes in Custom Software Development, Website
   Intranet Development and Cloud Services.
 intro:
   blurbs:
-    - image: /img/adobestock_274597413-converted-.png
+    - image: /img/Asset 1-100.jpg
       text: >
         Agile Software Development is an iterative approach to project
         management and software development that helps teams deliver value to
@@ -18,6 +18,10 @@ intro:
         but consumable, increments. Requirements, plans, and results are
         evaluated continuously so teams have a natural mechanism for responding
         to change quickly.
+    - image: /img/agilitylogo_web.png
+      text: >
+        Agility enables you to do things faster and we believe Agility is the fastest CMS on the market. We take you from getting started to increased conversions and better results easier and quicker than you ever thought possible.  Just being fast also allows you to create the best customer experiences by being ahead of the curve and giving you time to test and evaluate.
+        
   heading: What we offer
   description: >
     If you are serious about growing and sustaining your business, a web
@@ -36,13 +40,13 @@ main:
 
   image1:
     alt: Agile Software Development with Ultix Software
-    image: /img/adobestock_136732268_preview.jpeg
+    image: /img/AdobeStock_181293240_web.jpg
   image2:
     alt: Custom Software Development with Ultix Software
-    image: /img/prog.png
+    image: /img/AdobeStock_308459023_web.jpg
   image3:
     alt: Website and Programming with Ultix Software
-    image: /img/asset-1.png
+    image: /img/Artboard 11-80.jpg
 testimonials:
   - author: Matt V
     quote: “Data collection and analysis can be challenging.  Managing several

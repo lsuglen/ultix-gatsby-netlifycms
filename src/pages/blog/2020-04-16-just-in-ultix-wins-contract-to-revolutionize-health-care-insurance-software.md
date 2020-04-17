@@ -5,7 +5,7 @@ date: 2020-04-15T15:20:20.827Z
 description: Ultix Software signs a deal with Pride Life Insurance to bridge the
   gap between individual insurance plans and health care providers.
 featuredpost: false
-featuredimage: /img/pride-life-icon-sm-1.png
+featuredimage: /img/pridelife.JPG
 tags:
   - Ultix Software
   - Health Industry Case Management

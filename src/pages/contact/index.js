@@ -43,6 +43,12 @@ export default class Index extends React.Component {
           <div className="container">
             <div className="content">
               <h1>Contact</h1>
+              <p><b>Corporate Headquarters</b><br/>
+              2100 College Dr<br/>
+              Suite 62<br/>
+              Baton Rouge, LA 70808<br/>
+              504.388.1218<br/></p>
+              <hr/>
               <form
                 name="contact"
                 method="post"
