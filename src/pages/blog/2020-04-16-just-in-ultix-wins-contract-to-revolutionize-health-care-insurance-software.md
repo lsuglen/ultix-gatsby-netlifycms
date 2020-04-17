@@ -19,4 +19,8 @@ Their non-traditional approach to employee benefits brings more value to the emp
 
 Pride Life's mission is to give individuals and families greater peace of mind by providing simple solutions to difficult insurance problems. 
 
-For more information on Pride Life Insurance, checkout `<a href="https://pridelife.net">`https://pridelife.net`</a>`
+For more information on Pride Life Insurance, checkout 
+
+```html
+<a href="https://pridelife.net">https://pridelife.net</a>
+```
