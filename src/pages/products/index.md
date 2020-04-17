@@ -35,16 +35,16 @@ full_image: /img/adobestock_304025653.jpeg
 pricing:
   heading: Website Design Solutions
   description: We make it easy for you to get a fast-to-market website design for
-    your business.
+    your business.  We offer the following monthly plans below.
   plans:
-    - description: "Perfect for small websites with 5 - 7 pages of content. "
+    - description: Perfect for small websites with 5 pages of content that are just
+        getting started on the web.
       items:
         - Graphic Design
-        - Analytics
-        - Contact Forms
+        - Up to 5 content pages/forms
         - Location Map
-      plan: Small
-      price: "1999"
+      plan: Monthly Starter Site
+      price: "79"
     - description: Great for small business websites that require under 25 pages of content.
       items:
         - Graphic Design
