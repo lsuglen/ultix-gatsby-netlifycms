@@ -4,7 +4,9 @@ path: /products
 templateKey: product-page
 title: Our Services
 image: /img/adobestock_305153252.jpeg
-description: Business Development Software Solutions ....
+description: Ultix Sofware specializes in Custom Software Development, Website
+  Design, Graphic and Marketing Design Concepts, Line of Business Applications,
+  Intranet Development and Cloud Services.
 intro:
   blurbs:
     - image: /img/adobestock_274597413-converted-.png
@@ -18,10 +20,11 @@ intro:
         to change quickly.
   heading: What we offer
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    If you are serious about growing and sustaining your business, a web
+    presence is imperative. Customers, both existing and prospective need to
+    know about your business and its services. Existing customers rely on your
+    website for information updates on your current products and services as
+    well as new ones. 
 main:
   heading: Custom Solutions
   description: |
