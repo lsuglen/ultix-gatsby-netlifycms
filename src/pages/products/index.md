@@ -26,17 +26,22 @@ intro:
     website for information updates on your current products and services as
     well as new ones. 
 main:
-  heading: Custom Solutions
-  description: |
-    blah blah blah blah
+  heading: Custom Software Development
+  description: >+
+    Ultix Software has the resources and experience to develop any type of
+    custom application to help manage and run your business, agency or
+    organization.  We develop both web-based and desktop applications using the
+    latest technologies available.  We specialize in Microsoft .NET, React,
+    Gatsby, AgilityCMS, and JavaScript. 
+
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Agile Software Development with Ultix Software
     image: /img/products-grid3.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: Custom Software Development with Ultix Software
     image: /img/products-grid2.jpg
   image3:
-    alt: Coffee beans
+    alt: Website and Programming with Ultix Software
     image: /img/products-grid1.jpg
 testimonials:
   - author: Somebody
