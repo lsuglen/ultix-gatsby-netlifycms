@@ -44,8 +44,16 @@ main:
     alt: Website and Programming with Ultix Software
     image: /img/asset-1.png
 testimonials:
-  - author: Somebody
-    quote: '"testimonial"'
+  - author: Matt V
+    quote: “Data collection and analysis can be challenging.  Managing several
+      caseloads can be challenging.  The Hub makes it easier to do both
+      effectively and provide the outcome data you need to better manage your
+      cases.”
+  - quote: “The Hubs’ unique capabilities allow us to highlight key outcomes and
+      outputs for our service interventions, which, in turn, improves our
+      ability to provide high quality services that get the most bang for the
+      buck.”
+    author: John R
 full_image: /img/adobestock_304025653.jpeg
 pricing:
   heading: Website Design Solutions
@@ -68,16 +76,20 @@ pricing:
         - Basic Ecommerce Package
         - SEO
         - Website Search Engine
-      plan: Medium
+      plan: Monthly Small Business Site
       price: "449"
     - description: Designed for enterprise level website design requiring extensive
         architecture.
       items:
         - Whatever you need
         - Workflow
-        - Membership Section
+        - Membership
         - Ticket Sales
+        - Website Search Engine
+        - Ecommerce Package
+        - SEO
+        - Custom Designed Modules
         - Much Much More
-      plan: Custom
-      price: ??
+      plan: Complete Custom Solutions
+      price: ????
 ---
